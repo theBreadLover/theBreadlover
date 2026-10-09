@@ -1,6 +1,6 @@
 <div align="center">
 
-<iframe src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F7A41D&center=true&vCenter=true&width=750&lines=Loading+curiosity...;Building+random+ideas...;Breaking+things...;Fixing+things...;Turning+thoughts+into+projects..." alt="ver />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F7A41D&center=true&vCenter=true&width=750&lines=Loading+curiosity...;Building+random+ideas...;Breaking+things...;Fixing+things...;Turning+thoughts+into+projects..." alt="ver" />
 
 ```txt
 Booting...
@@ -10,9 +10,10 @@ Loading better ideas...
 Ready.
 ```
 
-<img src="https://img.shields.io/badge/Curiosity--Driven-FFB000?the-badge
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-=typescript&logoColor=white
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react
+<img src="https://img.shields.io/badge/Curiosity--Driven-FFB000?the-badge" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react" />
+<img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
 
 </div>
 
@@ -72,9 +73,7 @@ Because traditions matter.
 
 <div align="center">
 
-<img
-  src="https://skillicons.dev/icons?i=ts,js,react,nextjs,html,css,git,webstorm,supabase"
-  alt="Tech Stack"
+<img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,html,css,git,webstorm,supabase" alt="Tech Stack" />
 
 </div>
 
@@ -84,9 +83,9 @@ Because traditions matter.
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=theBreadLover&show_icons=truerder=true
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=theBreadLover&show_icons=truerder=true" />
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=theBreadLover&theme=tokyonight&hide_border=true
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=theBreadLover&theme=tokyonight&hide_border=true" />
 
 </div>
 
@@ -96,7 +95,7 @@ Because traditions matter.
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=theBreadLover&theme=tokyonighter=true
+<img src="https://streak-stats.demolab.com?user=theBreadLover&theme=tokyonighter=true" />
 
 </div>
 
