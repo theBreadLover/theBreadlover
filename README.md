@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F7A41D&center=true&vCenter=true&width=750&lines=Loading+curiosity...;Building+random+ideas...;Breaking+things...;Fixing+things...;Turning+thoughts+into+projects..." alt="ver
+<iframe src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F7A41D&center=true&vCenter=true&width=750&lines=Loading+curiosity...;Building+random+ideas...;Breaking+things...;Fixing+things...;Turning+thoughts+into+projects..." alt="ver />
 
 ```txt
 Booting...
